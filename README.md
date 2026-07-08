@@ -8,7 +8,8 @@ make it easy and quick to format common numeric types like currency, percent, de
 instead of custom patterns.
 
 3. try another example with a different specifier with a screenshot of the output.
-another specifiers 
+another specifiers
+صورة الoutput في ال files
 B -> Binary  11110
 c -> currency $30.00
 D -> Decimal 30
@@ -19,7 +20,3 @@ N -> Number 30.00
 P -> Percent 3,000.00%
 R -> Round-trip 30
 X -> hexadecimal 1e
-
-
-
- 
