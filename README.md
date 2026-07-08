@@ -20,3 +20,4 @@ N -> Number 30.00
 P -> Percent 3,000.00%
 R -> Round-trip 30
 X -> hexadecimal 1e
+note: supported by ToString & TryFormat.
